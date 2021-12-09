@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "mint" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "취업하고싶다~"
+title                    : "이불 밖은 위험해"
 title_separator          : "|"
 subtitle                 : "Life is all about timing" # site tagline that appears below site title in masthead
 name                     : "YuJunhyeok"
@@ -25,7 +25,7 @@ url                      : "https://tomejake.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "/assets/images/pencil-g0365ad08b_640.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+logo                     : "/assets/images/e77ddfd20d8de560681b0a9d6a38e9981d3515f345dd7c79cc647124eb32353377597a47251b4d0c3b2001857bcfbbcd871b6195b84bfaba3ca35c7334010fbd95e30fdc0e217e6dd7b7de342029d38d4b882d0f10d04258b2ff765739537c88.jpg" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs            : true # true, false (default)
 words_per_minute         : 200
